@@ -20,6 +20,19 @@ Repo: https://github.com/ad-m/github-push-action (810 Stars)
 
 GitHub actions to push back to repository eg. updated code
 
+## bump everywhere
+
+https://github.com/undergroundwires/bump-everywhere (21 Stars)
+
 ### Auto Generate Lighthouse Badge
 
 https://github.com/myactionway/lighthouse-badger-workflows
+
+
+
+## In Review
+
+## Tag/Release on Push Action
+
+https://github.com/rymndhng/release-on-push-action  (68 Stars)
+
